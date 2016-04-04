@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compass</string>
+    <string name="orientation_string">Orientation</string>
+</resources>
